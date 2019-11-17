@@ -1,0 +1,9 @@
+webbrowser
+requests
+re
+sys
+os
+requests
+re
+json
+colorama
